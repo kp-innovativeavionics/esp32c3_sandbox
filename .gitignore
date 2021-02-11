@@ -1,5 +1,6 @@
 .vscode/
 build/
+sdkconfig.old
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
