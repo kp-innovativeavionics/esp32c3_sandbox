@@ -1,7 +1,3 @@
-/**
- *  Copyright 2020 Innovative Avionics
- */
-
 #ifndef DIGITAL_LEDS_H
 #define DIGITAL_LEDS_H
 

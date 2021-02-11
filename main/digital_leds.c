@@ -1,7 +1,3 @@
-/**
- *  Copyright 2020 Innovative Avionics
- */
-
 #include "digital_leds.h"
 #include <stdlib.h>
 #include <string.h>
